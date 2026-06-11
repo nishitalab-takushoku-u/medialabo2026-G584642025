@@ -1,0 +1,16 @@
+h1 {
+    color: black;
+    border-bottom: solid 5px  black;
+    font-family: "Arial";
+}
+h2 {
+    background: linear-gradient(0.25turn, white, black, black);
+    font-family: Meiryo;
+}
+a:hover {
+    color: red;
+}
+li {
+    font-size: 20px;
+    padding-bottom: 5px;
+}
